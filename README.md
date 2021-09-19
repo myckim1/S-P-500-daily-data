@@ -1,4 +1,6 @@
-S&P 500 Daily Data (1927-12-30 to current).
+S&P 500 Daily Data (1927-12-30 to current), used to create a Kaggle Dataset:
+
+https://www.kaggle.com/myungchankim/sp-500-daily-data-19281230-to-20210919
 
 Data Included:
 
