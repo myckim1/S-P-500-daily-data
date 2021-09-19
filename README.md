@@ -10,7 +10,4 @@ Data Included:
 	6. % Price Fluctuation (High-Low in terms of closing price)
 	
 PLEASE NOTE: 
-There were quite a few days with Opening Price = 0.0.
-I assumed Opening = Closing of previous day for these.
-
-From my observation: most of the opening price data between 1962-01-01 and 1982-04-10 were set to 0.0. For these, I assumed opening price is equal to closing price of previous trading day.
+All but a few days between 1962-01-01 and 1982-04-10 had an Opening Price = 0.0. For these, I assumed that Opening Price is equal to the Closing Price of the previous trading day.
